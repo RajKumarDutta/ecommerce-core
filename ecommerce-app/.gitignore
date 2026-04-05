@@ -1,0 +1,19 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Secrets & Local Configs (The Pro Way)
+**/src/main/resources/application.yaml
+**/src/main/resources/application.properties
+.env
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS Junk
+.DS_Store
